@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FilmDeciderApplication</string>
+    <string name="plainText">Tytuł filmu</string>
+    <string name="textHorror">Horror</string>
+    <string name="TextSecondRight">Horror</string>
+    <string name="TextFirstRight">We Dwoje</string>
+    <string name="TextFirstLeft">Rozrywka</string>
+    <string name="TextSecondRight">Horror</string>
 </resources>
